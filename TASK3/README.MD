@@ -29,7 +29,7 @@ You can install the dependencies using pip:
 ## Instructions
 1. Clone the repository:
 
-'''git clonehttps://github.com/KUmarRahul001/CodSoft/edit/main/TASK3.git
+'''git clone https://github.com/KUmarRahul001/CodSoft/edit/main/TASK3.git
 
 '''
 
